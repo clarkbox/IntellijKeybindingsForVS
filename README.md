@@ -9,3 +9,12 @@ Unlike other IntelliJ keybinding extensions, this one is **100% declarative**. I
 ## Supported Platforms
 
 Currently optimized for **Windows and Linux**. YMMV on MAC.
+
+## Alternatives
+
+If you want more functionality such as macOS support, chained chords, and platform-specific overrides, and don't mind executable code running, use [kasecato/vscode-intellij-idea-keybindings](https://github.com/kasecato/vscode-intellij-idea-keybindings) instead.
+
+## License
+
+MIT
+
