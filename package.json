@@ -1345,5 +1345,10 @@
         "intellij": "Go: Test Previous"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clarkbox/IntellijKeybindingsForVS"
+  },
+  "icon": ""
 }
